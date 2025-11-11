@@ -11,4 +11,3 @@ Speech-to-text translation performance (BLEU)
 |:------:|
 |24.35|
 
-* 학습 및 테스트 데이터셋에 Whisper normalizer 텍스트 정규화를 적용했습니다.
